@@ -12,3 +12,14 @@ body {
   color: #ffffff;
   opacity: 1;
 }
+/* contact section */
+.contact-card {
+  transition: transform 0.3s ease;
+}
+.contact-card:hover {
+  transform: translateY(-5px);
+}
+.contact-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
